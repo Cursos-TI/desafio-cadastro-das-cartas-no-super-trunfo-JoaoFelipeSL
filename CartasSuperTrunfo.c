@@ -106,7 +106,7 @@ int main() {
     printf("PIB: %.2f\n", pib);
     printf("Numero de Pontos Turisticos: %i\n", numeroPT);
     printf("Densidade populacional: %.2f hab/km2\n", densidadeCarta1);
-    printf("PIB per capita: %.2f reais\n", pibPerCapitaCarta1);
+    printf("PIB per capita: %.2f reais\n\n", pibPerCapitaCarta1);
 
 
 
